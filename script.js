@@ -16,3 +16,8 @@ let aluno1 ={
     anoletivo: 'Ensino Médio'
     matériasFavoritas: ['Matemática, Português, Física']
 }
+
+console.log(aluno1.nome);
+console.log(aluno1.idade);
+console.log(aluno1.materisFavoritas);
+console.log(aluno1.matériasFavoritas[1]);
